@@ -4180,7 +4180,7 @@ input[type=search]::-webkit-search-results-decoration {
 }
 .header__logo {
   display: flex;
-  align-items: center;
+  align-items: left;
 }
 @media (max-width: 991px) {
   .header__logo {
