@@ -8936,6 +8936,7 @@ p.comment-form-terms_of_use label {
   position: absolute;
   top: 140px;
   left: 600px;
+  flex: auto;
 }
 
 .image1 {
@@ -8971,6 +8972,7 @@ p.comment-form-terms_of_use label {
   position: absolute;
   top: 0px;
   left: 80px;
+  flex: auto;
 }
 
 .image1-2 {
